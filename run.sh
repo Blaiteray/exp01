@@ -1,3 +1,3 @@
-g++ -o hello hello.cpp
-chmod a+x hello
-./hello
+g++ -o ./out/hello hello.cpp
+chmod a+x ./out/hello
+./out/hello
