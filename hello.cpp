@@ -1,10 +1,8 @@
-#include <iostream>
+#include "head.h"
 
 
 int main()
 {
-	std::cout << "Hello World!\n";
-	std::cout << "Trimble before me people!\n";
-	std::cin.get();
+	success(8);
 	return 0;
 }
